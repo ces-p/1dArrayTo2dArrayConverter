@@ -1,0 +1,15 @@
+/Users/cesarportillo/Desktop/2d arrays/bin/Debug/net5.0/2d arrays.deps.json
+/Users/cesarportillo/Desktop/2d arrays/bin/Debug/net5.0/2d arrays.runtimeconfig.json
+/Users/cesarportillo/Desktop/2d arrays/bin/Debug/net5.0/2d arrays.runtimeconfig.dev.json
+/Users/cesarportillo/Desktop/2d arrays/bin/Debug/net5.0/2d arrays.dll
+/Users/cesarportillo/Desktop/2d arrays/bin/Debug/net5.0/ref/2d arrays.dll
+/Users/cesarportillo/Desktop/2d arrays/bin/Debug/net5.0/2d arrays.pdb
+/Users/cesarportillo/Desktop/2d arrays/obj/Debug/net5.0/2d arrays.csprojAssemblyReference.cache
+/Users/cesarportillo/Desktop/2d arrays/obj/Debug/net5.0/2d arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cesarportillo/Desktop/2d arrays/obj/Debug/net5.0/2d arrays.AssemblyInfoInputs.cache
+/Users/cesarportillo/Desktop/2d arrays/obj/Debug/net5.0/2d arrays.AssemblyInfo.cs
+/Users/cesarportillo/Desktop/2d arrays/obj/Debug/net5.0/2d arrays.csproj.CoreCompileInputs.cache
+/Users/cesarportillo/Desktop/2d arrays/obj/Debug/net5.0/2d arrays.dll
+/Users/cesarportillo/Desktop/2d arrays/obj/Debug/net5.0/ref/2d arrays.dll
+/Users/cesarportillo/Desktop/2d arrays/obj/Debug/net5.0/2d arrays.pdb
+/Users/cesarportillo/Desktop/2d arrays/obj/Debug/net5.0/2d arrays.genruntimeconfig.cache
